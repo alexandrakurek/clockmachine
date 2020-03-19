@@ -8,7 +8,7 @@ What time is it? Finally you will know! Simple app for chronically-late people.
 * [Contact](#contact)
 
 ## General info
-ClockMachine is simple app created for punctual people and for others who wants take a look what time is it. Do you want to check? [Click on](https://alexandrakurek.github.io/clockmachine/) 
+ClockMachine is simple app created for punctual people and for others who wants take a look what time is it. Do you want to check? [Click here!](https://alexandrakurek.github.io/clockmachine/) 
 
 ## Technologies
 Project is created with:
