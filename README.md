@@ -1,8 +1,8 @@
-<p style ='color: #1E90FF'> # clockmachine </p>
+<p style ='color: #1E90FF'><h1> Clockmachine :) </h1></p>
 What time is it? Finally you will know! Simple app for chronically-late people.
 
 ## Table of contens
-* [General info] (#general-info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
