@@ -1,4 +1,4 @@
-<p style ='color: #1E90FF'><h1>Clockmachine</h1></p>
+<font color="#1E90FF"><h1>Clockmachine</h1></font>
 What time is it? Finally you will know! Simple app for chronically-late people.
 
 ## Table of contens
